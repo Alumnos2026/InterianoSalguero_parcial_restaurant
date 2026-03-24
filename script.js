@@ -1,5 +1,5 @@
 
-  alert(" BIENVENIDOS A LA CASA DEL SABOR");
+//   alert(" BIENVENIDOS A LA CASA DEL SABOR");
 let nombre = "Helen";
   let apellido = "Interiano";
 //   numerico
@@ -12,4 +12,5 @@ let estaEliminado = false;
 let direccion = null;
 // undefined (sin valor aun)
 
-console.log("hola soy la creadora de esta pagina  " + nombre + " "   );
+console.log("hola soy la creadora de esta pagina  " + nombre + " " );
+  alert(" BIENVENIDOS A LA CASA DEL SABOR");
